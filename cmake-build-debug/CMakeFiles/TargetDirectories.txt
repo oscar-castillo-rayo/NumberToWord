@@ -1,0 +1,3 @@
+C:/Users/OSCAR/CLionProjects/NumberToWord/cmake-build-debug/CMakeFiles/NumberToWord.dir
+C:/Users/OSCAR/CLionProjects/NumberToWord/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/OSCAR/CLionProjects/NumberToWord/cmake-build-debug/CMakeFiles/rebuild_cache.dir

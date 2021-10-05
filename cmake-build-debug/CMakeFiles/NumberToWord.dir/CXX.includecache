@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/OSCAR/CLionProjects/NumberToWord/NumberToWordFuntions.cpp
+NumberToWordFuntions.h
+C:/Users/OSCAR/CLionProjects/NumberToWord/NumberToWordFuntions.h
+iostream
+-
+array
+-
+algorithm
+-
+map
+-
+
+C:/Users/OSCAR/CLionProjects/NumberToWord/NumberToWordFuntions.h
+array
+-
+

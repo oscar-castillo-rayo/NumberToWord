@@ -1,0 +1,3 @@
+C:\Users\OSCAR\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\NumberToWord.dir/objects.a
+C:\Compiladores\mingw32\bin\ar.exe cr CMakeFiles\NumberToWord.dir/objects.a @CMakeFiles\NumberToWord.dir\objects1.rsp
+C:\Compiladores\mingw32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\NumberToWord.dir/objects.a -Wl,--no-whole-archive -o NumberToWord.exe -Wl,--out-implib,libNumberToWord.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\NumberToWord.dir\linklibs.rsp
