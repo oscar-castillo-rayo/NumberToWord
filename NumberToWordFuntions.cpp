@@ -22,16 +22,13 @@ void reversar(std::array<int, 7> array) {
 	}
 }
 
-void valores(std::array<int, 7> array) {
+void valor(std::array<int, 7> numero, std::map<int, std::string> valor) {
 	for (int i = 0; 7 > i; i++) {
-		std::map<int, std::string> valores = {{0, "unidades"},
-											  {1, "decenas"},
-											  {2, "centenas"},
-											  {3, "unidades de millar"},
-											  {4, "decenas de millar"},
-											  {5, "centenas de millar"},
-											  {6, "unidades de millón"}};
-		std::cout << array[i] << " ";
-		std::cout << valores[i] << std::endl;
+		std::cout << numero[i] << " ";
+		std::cout << valor[i] << std::endl;
 	}
+}
+
+void valorPosicional( int numero, std::map<int, std::string> valor ) {
+	std::cout << valor[numero];
 }

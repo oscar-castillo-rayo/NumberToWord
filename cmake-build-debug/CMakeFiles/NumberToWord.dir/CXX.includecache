@@ -6,19 +6,19 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/OSCAR/CLionProjects/NumberToWord/NumberToWordFuntions.cpp
-NumberToWordFuntions.h
 C:/Users/OSCAR/CLionProjects/NumberToWord/NumberToWordFuntions.h
-iostream
--
 array
--
-algorithm
 -
 map
 -
 
+C:/Users/OSCAR/CLionProjects/NumberToWord/main.cpp
+iostream
+-
+NumberToWordFuntions.h
 C:/Users/OSCAR/CLionProjects/NumberToWord/NumberToWordFuntions.h
-array
+ctime
+-
+map
 -
 
