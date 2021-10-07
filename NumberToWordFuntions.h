@@ -13,4 +13,5 @@ void valor(std::array<int, 7> array, std::map<int, std::string>);
 
 void valorPosicional(int, std::map<int, std::string>);
 
+void mil();
 #endif //NUMBERTOWORD_NUMBERTOWORDFUNTIONS_H

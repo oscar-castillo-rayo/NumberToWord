@@ -32,3 +32,7 @@ void valor(std::array<int, 7> numero, std::map<int, std::string> valor) {
 void valorPosicional( int numero, std::map<int, std::string> valor ) {
 	std::cout << valor[numero];
 }
+
+void mil(){
+	std::cout<< " mil ";
+}
